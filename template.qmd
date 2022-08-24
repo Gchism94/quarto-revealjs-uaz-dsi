@@ -26,7 +26,6 @@ When you click the **Render** button a document will be generated that includes:
 
 > Women belong in all places where decisions are being made.
 > It shouldn't be that women are the exception.
-
 \- Ruth Bader Ginsburg
 
 ## Code
@@ -45,7 +44,6 @@ m <- lm(hwy ~ class, data = mpg)
 Here's a formatted but unevaluated code block
 
 ``` python
-
 print("Hello!")
 ```
 
