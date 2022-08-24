@@ -1,5 +1,5 @@
 
-# quarto-revealjs-uaz
+# quarto-revealjs-uaz-dsi
 
 <!-- badges: start -->
 <!-- badges: end -->
